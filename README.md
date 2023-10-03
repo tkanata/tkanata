@@ -2,6 +2,8 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tkanata)](https://github.com/anuraghazra/github-readme-stats)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
+
 <!--
 **tkanata/tkanata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
