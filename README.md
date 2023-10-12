@@ -24,7 +24,7 @@
   </a>
 </p>
 
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=tkanata&theme=onedark)](https://github.com/tkanata/github-profile-trophy)
 
 <!--
 **tkanata/tkanata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
