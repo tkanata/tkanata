@@ -13,11 +13,11 @@
   <a href="https://www.reddit.com/user/tkanata">
     <img height="20" src="https://img.shields.io/reddit/user-karma/combined/tkanata?label=Reddit&logo=reddit&style=flat" />
   </a>
-  <a href="https://stackoverflow.com/users/5720201/tkanata">
+<!--   <a href="https://stackoverflow.com/users/5720201/tkanata">
     <img height="20" src="https://img.shields.io/stackexchange/stackoverflow/r/5720201?label=StackOverflow&logo=stack-overflow&style=flat" />
-  </a>
+  </a> -->
   <a href="http://qiita.com/tkanata">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/tkanata/posts.svg" />
+    <img height="20" src="https://qiita-badge.apiapi.app/s/tnktnk/posts.svg" />
   </a>
   <//qiita.com/tkanata">
     <img height="20" src="https://qiita-badge.apiapi.app/s/tkanata/contributions.svg" />
