@@ -4,23 +4,23 @@
   <a href="https://github.com/tkanata/tkanata/">
     <img src="https://komarev.com/ghpvc/?username=tkanata" alt="tkanata" />
   </a>
-  <a href="http://twitter.com/tkanata">
+<!--   <a href="http://twitter.com/tkanata">
     <img height="20" src="https://img.shields.io/twitter/follow/tkanata?label=Twitter&logo=twitter&style=flat" />
-  </a>
+  </a> -->
   <a href="https://github.com/tkanata">
     <img height="20" src="https://img.shields.io/github/followers/tkanata?label=follow&logo=github&style=flat" />
   </a>
-  <a href="https://www.reddit.com/user/tkanata">
+<!--   <a href="https://www.reddit.com/user/tkanata">
     <img height="20" src="https://img.shields.io/reddit/user-karma/combined/tkanata?label=Reddit&logo=reddit&style=flat" />
-  </a>
+  </a> -->
 <!--   <a href="https://stackoverflow.com/users/5720201/tkanata">
     <img height="20" src="https://img.shields.io/stackexchange/stackoverflow/r/5720201?label=StackOverflow&logo=stack-overflow&style=flat" />
   </a> -->
-  <a href="http://qiita.com/tkanata">
+  <a href="http://qiita.com/tnktnk">
     <img height="20" src="https://qiita-badge.apiapi.app/s/tnktnk/posts.svg" />
   </a>
-  <//qiita.com/tkanata">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/tkanata/contributions.svg" />
+  <//qiita.com/tnktnk">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/tnktnk/contributions.svg" />
   </a>
 </p>
 
