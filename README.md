@@ -26,7 +26,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=tkanata&theme=onedark)](https://github.com/tkanata/github-profile-trophy)
 
-![tkanata's GitHub stats](https://github-readme-stats.vercel.app/api?username=tkanata&show_icons=true&theme=radical)
+![tkanata's GitHub stats](https://github-readme-stats.vercel.app/api?username=tkanata&show_icons=true&theme=radical&count_private=true)
 
 <!--
 **tkanata/tkanata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
